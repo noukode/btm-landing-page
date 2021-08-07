@@ -1,0 +1,41 @@
+body {
+  font-family: "Poppins" !important;
+}
+
+.nav-link {
+  font-weight: 400;
+  color: rgba(0, 0, 0, 0.9) !important;
+}
+
+.nav-link.active {
+  font-weight: 500;
+}
+
+#hero {
+  margin-top: 3.5em;
+}
+
+.hero-title h1 {
+  font-size: 4em;
+  font-weight: 800;
+}
+
+.btn-primary {
+  background-color: #71c8f1;
+  border-color: #71c8f1;
+}
+section {
+  padding-top: 4em !important;
+}
+section:nth-child(odd) {
+  background-color: #a2d9ff;
+}
+
+.team .card-title {
+  font-weight: 600;
+  font-size: 24px;
+}
+
+.team p.h6 {
+  font-weight: 300;
+}
